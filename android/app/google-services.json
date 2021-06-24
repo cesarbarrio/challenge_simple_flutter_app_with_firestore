@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706490057344",
+    "project_id": "smartdreamtest",
+    "storage_bucket": "smartdreamtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706490057344:android:132c4cfe3214bf50eb5c65",
+        "android_client_info": {
+          "package_name": "com.example.smart_dream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706490057344-e31lbdfkqj7pvh5gmd2nedne4rnbsva8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9NYi9uPpFc6HIQ7tnM5nyzAdM6Z7oSrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706490057344-e31lbdfkqj7pvh5gmd2nedne4rnbsva8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+{
+    "mainDrawerShoppingCartOption": "Shopping cart",
+    "productsScreenTitle": "Products",
+    "productsScreenError": "An error ocurred while getting the products, please try again",
+    "productsScreenProductAdded": "The product was added",
+    "productsScreenAddToShoppingCartButton": "Add to shopping cart",
+    "productsScreenDeleteFromShoppingCartButton": "Delete product from shopping cart",
+    "productsScreenProductDeleted": "The product has beed deleted from the shopping car",
+    "shoppingCartScreenTitle": "Shopping cart",
+    "shoppingCartScreenNoProducts": "There are no products in the shopping cart yet",
+    "shoppingCartScreenPurchaseButton": "Purchase",
+    "shoppingCartScreenPurchaseSuccess": "The purchase was successful"
+}
